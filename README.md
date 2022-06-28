@@ -24,7 +24,8 @@ My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
 </div>
  
 ##
-  ![snake gif](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.gif)
+ ![snake animation](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.svg)
 ##
 
 <div> 
