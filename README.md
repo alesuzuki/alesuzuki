@@ -1,6 +1,29 @@
 ### Welcome to my GitHub 🖖
 My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesuzuki&label=Profile%20views&color=0e75b6&style=flat" alt="alesuzuki" /> </p>
+
+##
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alesuzuki/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.instagram.com/alesuzukis2/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.twitch.tv/alesuzukidev" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:alesuzuki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+
+
+  
+</div>
+
 - 💻 I'm Backend developer
 - 👩🏻‍🎓 I have a bachelor degree in Information systems and a Master degree in Software Engineering
 - 👩🏻‍💼 Pronouns: She/Her/Ela/Dela
@@ -29,25 +52,14 @@ My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
 <div align="center">
   <a href="https://github.com/alesuzuki">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alesuzuki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgcagnoni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesuzuki&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
 ![snake animation](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alesuzuki/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+##
 
-  <a href="https://www.instagram.com/alesuzukis2/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
 
-  <a href="https://www.twitch.tv/alesuzukidev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:alesuzuki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+
