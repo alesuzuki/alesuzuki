@@ -20,6 +20,9 @@ My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
   <a href = "mailto:alesuzuki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
+  
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/alesuzuki)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/alesuzukis2#4521)
 
   
 </div>
