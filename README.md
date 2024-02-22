@@ -31,13 +31,13 @@ My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
 - 📚 I love studiyng and learning new things
 - 🤩 In my free time i like to:
 • Travel ⛱️✈️🌎
-• listen to music 🎵🎶
+• Listen to music 🎵🎶
 • Workout 🏋🏻
-• play board games ♟️🎲🧙‍♂️ and video games🎮
+• Play board games ♟️🎲🧙‍♂️ and video games🎮
 • Eating 🍽️, cooking 👩🏻‍🍳 and drinking 🍻
 • Photography 📷
 • and sleeping 🛏️
-- ❓ Curiosity: I'm a fur baby mom of 2 loving cats person 🐱🐱
+- ❓ Curiosity: I'm a fur mom of 3 loving cats 🐱🐱
 - 💬 Ping me about tech or anything we may have in common
 
 ##
