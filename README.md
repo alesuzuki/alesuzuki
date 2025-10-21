@@ -57,9 +57,15 @@ My name is Alessandra (alesuzuki) and I'm happy to see you here 🤓
 
 ##
 
-![snake animation](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.svg)
 
+<!-- 
+animação desabilitada pois ocorria erros e eu limpei o git para ficar organizado e estruturado e não há dados, mas verificar antes de reativar
+
+![snake animation](https://github.com/alesuzuki/alesuzuki/blob/output/github-contribution-grid-snake.svg)
 ##
+-->
+
+
 
 
 
